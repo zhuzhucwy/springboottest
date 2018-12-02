@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/springboot-hello/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-scheduled/pom.xml" />
       </list>
     </option>
   </component>
